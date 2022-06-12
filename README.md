@@ -2,7 +2,7 @@
 A repository on machine learning and deep learning projects.
 
 # GradDescent.ipynb
-I did this project to test my theoretical knowledge of gradient descent in deep learning. I created Gaussian-distributed noise centered in different points of a 2D plane and attempted using gradient descent to distinguish the two groups. This mini project is divided into four parts.
+I did this project to test my theoretical knowledge of gradient descent in deep learning. I created Gaussian-distributed noise centered in different points of a 2D plane and attempted using gradient descent to distinguish the groups. This mini project is divided into four parts.
 1. Two scatters and no hidden layers
 
 ![GradDescent1](https://user-images.githubusercontent.com/106710808/173212693-1014366d-fe26-4322-8abb-80c143982820.png)
